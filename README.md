@@ -277,10 +277,8 @@ __pycache__/
 
 **Arvind Singh**  
 B.Tech Computer Science and Engineering, Punjabi University, Patiala  
-[github.com/arvindmatharoo](https://github.com/arvindmatharoo)
-
+* Github: [github.com/arvindmatharoo](https://github.com/arvindmatharoo)
+* LinkedIn: [linkedin.com/arvindmatharoo](https://www.linkedin.com/in/arvindmatharoo/)
 ---
 
-## License
 
-This project is licensed under the MIT License.
