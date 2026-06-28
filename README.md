@@ -6,6 +6,11 @@
 ![Groq](https://img.shields.io/badge/Groq-LLaMA_3.3_70B-F55036?style=for-the-badge)
 ![Chroma](https://img.shields.io/badge/Chroma-Vector_DB-orange?style=for-the-badge)
 
+<p align="center">
+  <img src="assets/Welcome.png" width="49%"/>
+  <img src="assets/chat.png" width="49%"/>
+</p>
+
 AskDoc is a production-quality **Conversational Retrieval-Augmented Generation (RAG)** application that lets users hold multi-turn conversations with any PDF document. It is powered by LLaMA 3.3 70B on Groq, a persistent Chroma vector database, and a premium dark glassmorphism Streamlit interface.
 
 ---
@@ -270,7 +275,7 @@ __pycache__/
 
 ## Author
 
-**Arvind Matharoo**  
+**Arvind Singh**  
 B.Tech Computer Science and Engineering, Punjabi University, Patiala  
 [github.com/arvindmatharoo](https://github.com/arvindmatharoo)
 
