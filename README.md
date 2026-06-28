@@ -100,7 +100,7 @@ askdoc/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/arvindmatharoo/askdoc.git
+git clone https://github.com/arvindmatharoo/AskDoc.git
 cd askdoc
 ```
 
